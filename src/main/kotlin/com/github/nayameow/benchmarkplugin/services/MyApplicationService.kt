@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nayameow.benchmarkplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nayameow.benchmarkplugin.MyBundle
 
 class MyApplicationService {
 
